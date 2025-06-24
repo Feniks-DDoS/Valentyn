@@ -4,7 +4,7 @@ I'm a junior frontend developer based in Nagoya, Japan 🇯🇵
 I'm passionate about working with modern technologies and constantly improving my skills.
 
 ## 🛠️ Tech Stack:
-- Languages: JavaScript, HTML, CSS, Sass/SCSS
+- Languages: JavaScript, HTML, CSS, Sass/SCSS , Vite
 - Methodologies: BEM
 - Interests: responsive design, UI/UX, learning modern frameworks (React, Vue)
 
